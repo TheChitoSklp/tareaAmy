@@ -1,0 +1,52 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: rgb(96, 194, 63, 0.7);
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: whitesmoke;
+}
+h3 {
+  color: white;
+}
+.card {
+  background-color: violet;
+}
+section {
+  width: 70%;
+  background-color: rgb(122, 10, 142);
+  float: left;
+  margin: 10px;
+}
+article {
+  margin: 0.5em 3em;
+  padding: 0.5em 2em;
+  background-color: crimson;
+  border: 5px solid yellow;
+}
+article img {
+  width: 40px;
+  height: 40px;
+}
+aside {
+  width: 25%;
+  float: left;
+  background-color: rgb(122, 10, 142);
+}
+aside img {
+  width: 40%;
+  height: 40%;
+}
+footer {
+  background-color: plum;
+  width: auto;
+  height: 60px;
+  text-align: center;
+  padding: 45px;
+  margin: 10px;
+  clear: both;
+}
